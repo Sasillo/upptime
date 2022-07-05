@@ -2,15 +2,44 @@
 owner: Sasillo # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+assignees:
+  - Sasillo
+
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Mail
+    url: https://mail.selgaraje.com
+  - name: Mail SMTP
+    check: "tcp-ping"
+    url: mail.selgaraje.com
+    port: 25
+  - name: Mail SMTPs
+    check: "tcp-ping"
+    url: mail.selgaraje.com
+    port: 465
+  - name: Mail Submission
+    check: "tcp-ping"
+    url: mail.selgaraje.com
+    port: 587
+  - name: Mail IMAPs
+    check: "tcp-ping"
+    url: mail.selgaraje.com
+    port: 993
+  - name: Cloud
+    url: https://cloud.selgaraje.com
+  - name: Secure
+    url: https://secure.selgaraje.com
+  - name: Media
+    url: https://media.selgaraje.com
+  - name: Media MS
+    check: "tcp-ping"
+    url: media.selgaraje.com
+    port: 32400
+  - name: News
+    url: https://news.selgaraje.com
+  - name: Cuélebre
+    url: https://cuelebre.selgaraje.com
+  - name: Belenos
+    url: https://belenos.selgaraje.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,8 +48,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "SElGaraje Status"
+  introMessage: ServerS Infraestructure Status
   navbar:
     - title: Status
       href: /
