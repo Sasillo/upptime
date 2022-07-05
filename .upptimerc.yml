@@ -47,9 +47,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: SElGaraje Status
   introTitle: "SElGaraje Status"
-  introMessage: ServerS Infraestructure Status
+  introMessage: ServerS Infrastructure Status
   navbar:
     - title: Status
       href: /
