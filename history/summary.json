@@ -4,18 +4,20 @@
     "url": "https://mail.selgaraje.com",
     "icon": "https://favicons.githubusercontent.com/mail.selgaraje.com",
     "slug": "mail",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 942,
     "timeDay": 828,
     "timeWeek": 955,
     "timeMonth": 942,
     "timeYear": 942,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 5
+    }
   },
   {
     "name": "Mail SMTP",
@@ -94,36 +96,40 @@
     "url": "https://cloud.selgaraje.com",
     "icon": "https://favicons.githubusercontent.com/cloud.selgaraje.com",
     "slug": "cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1246,
     "timeDay": 1141,
     "timeWeek": 1211,
     "timeMonth": 1246,
     "timeYear": 1246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 4
+    }
   },
   {
     "name": "Secure",
     "url": "https://secure.selgaraje.com",
     "icon": "https://favicons.githubusercontent.com/secure.selgaraje.com",
     "slug": "secure",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 869,
     "timeDay": 696,
     "timeWeek": 839,
     "timeMonth": 869,
     "timeYear": 869,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 3
+    }
   },
   {
     "name": "Media",
@@ -131,11 +137,11 @@
     "icon": "https://favicons.githubusercontent.com/media.selgaraje.com",
     "slug": "media",
     "status": "down",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 851,
     "timeDay": 706,
     "timeWeek": 814,
@@ -170,28 +176,30 @@
     "url": "https://news.selgaraje.com",
     "icon": "https://favicons.githubusercontent.com/news.selgaraje.com",
     "slug": "news",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 879,
     "timeDay": 692,
     "timeWeek": 822,
     "timeMonth": 879,
     "timeYear": 879,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 1
+    }
   },
   {
     "name": "Cuélebre",
     "url": "https://cuelebre.selgaraje.com",
     "icon": "https://favicons.githubusercontent.com/cuelebre.selgaraje.com",
     "slug": "cuelebre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1189,
@@ -199,16 +207,18 @@
     "timeWeek": 1184,
     "timeMonth": 1189,
     "timeYear": 1189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 1
+    }
   },
   {
     "name": "Belenos",
     "url": "https://belenos.selgaraje.com",
     "icon": "https://favicons.githubusercontent.com/belenos.selgaraje.com",
     "slug": "belenos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -217,6 +227,8 @@
     "timeWeek": 847,
     "timeMonth": 856,
     "timeYear": 856,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 0
+    }
   }
 ]
