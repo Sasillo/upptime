@@ -1,7 +1,7 @@
 url: https://cloud.selgaraje.com
-status: up
-code: 200
-responseTime: 2059
-lastUpdated: 2023-11-02T10:53:20.315Z
+status: down
+code: 503
+responseTime: 2709
+lastUpdated: 2023-11-02T11:19:47.701Z
 startTime: 2022-07-05T07:50:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
