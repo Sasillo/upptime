@@ -1,7 +1,7 @@
 url: https://news.selgaraje.com
-status: up
-code: 200
-responseTime: 1106
-lastUpdated: 2024-02-24T13:42:12.326Z
+status: down
+code: 502
+responseTime: 4064
+lastUpdated: 2024-02-24T13:53:36.576Z
 startTime: 2022-07-05T07:52:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
