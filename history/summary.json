@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.89%",
-    "uptimeYear": "91.09%",
+    "uptimeYear": "91.24%",
     "time": 1061,
-    "timeDay": 735,
-    "timeWeek": 835,
-    "timeMonth": 930,
-    "timeYear": 1023,
+    "timeDay": 744,
+    "timeWeek": 847,
+    "timeMonth": 929,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2024-06-23": 692,
       "2024-06-22": 334,
@@ -71,8 +71,7 @@
       "2023-07-13": 19,
       "2023-07-11": 204,
       "2023-07-09": 298,
-      "2023-07-08": 1105,
-      "2023-07-07": 1440
+      "2023-07-08": 1105
     }
   },
   {
@@ -81,16 +80,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp",
     "status": "up",
-    "uptime": "60.02%",
+    "uptime": "60.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.88%",
+    "uptimeYear": "87.03%",
     "time": 198,
     "timeDay": 89,
     "timeWeek": 100,
-    "timeMonth": 110,
-    "timeYear": 178,
+    "timeMonth": 109,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2023-08-22": 508,
       "2023-08-21": 1440,
@@ -137,8 +136,7 @@
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 1440
+      "2023-07-08": 1440
     }
   },
   {
@@ -147,16 +145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smt-ps",
     "status": "up",
-    "uptime": "60.02%",
+    "uptime": "60.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.88%",
+    "uptimeYear": "87.03%",
     "time": 175,
     "timeDay": 89,
     "timeWeek": 100,
-    "timeMonth": 110,
-    "timeYear": 159,
+    "timeMonth": 109,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2023-08-22": 508,
       "2023-08-21": 1440,
@@ -203,8 +201,7 @@
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 1440
+      "2023-07-08": 1440
     }
   },
   {
@@ -213,15 +210,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-submission",
     "status": "up",
-    "uptime": "60.02%",
+    "uptime": "60.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.88%",
+    "uptimeYear": "87.03%",
     "time": 162,
     "timeDay": 89,
     "timeWeek": 100,
-    "timeMonth": 110,
+    "timeMonth": 109,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2023-08-22": 508,
@@ -269,8 +266,7 @@
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 1440
+      "2023-07-08": 1440
     }
   },
   {
@@ -279,7 +275,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-ima-ps",
     "status": "up",
-    "uptime": "88.60%",
+    "uptime": "88.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -287,7 +283,7 @@
     "time": 152,
     "timeDay": 89,
     "timeWeek": 100,
-    "timeMonth": 110,
+    "timeMonth": 109,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -297,18 +293,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.selgaraje.com.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "43.20%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "96.86%",
-    "uptimeYear": "61.48%",
-    "time": 1680,
-    "timeDay": 930,
-    "timeWeek": 1115,
-    "timeMonth": 1212,
-    "timeYear": 1680,
+    "uptime": "43.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "61.63%",
+    "time": 1678,
+    "timeDay": 1001,
+    "timeWeek": 1109,
+    "timeMonth": 1205,
+    "timeYear": 1678,
     "dailyMinutesDown": {
-      "2024-07-05": 11,
       "2024-06-23": 692,
       "2024-06-22": 333,
       "2024-06-07": 338,
@@ -462,8 +457,7 @@
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 1440
+      "2023-07-08": 1440
     }
   },
   {
@@ -472,16 +466,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/secure.selgaraje.com.ico",
     "slug": "secure",
     "status": "up",
-    "uptime": "93.55%",
+    "uptime": "93.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "57.09%",
+    "uptimeWeek": "64.93%",
     "uptimeMonth": "70.59%",
-    "uptimeYear": "95.03%",
+    "uptimeYear": "95.18%",
     "time": 1059,
-    "timeDay": 748,
-    "timeWeek": 1862,
-    "timeMonth": 1540,
-    "timeYear": 1067,
+    "timeDay": 587,
+    "timeWeek": 1473,
+    "timeMonth": 1536,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2024-07-01": 695,
       "2024-06-30": 1440,
@@ -521,8 +515,7 @@
       "2023-07-13": 18,
       "2023-07-11": 196,
       "2023-07-09": 297,
-      "2023-07-08": 1105,
-      "2023-07-07": 1440
+      "2023-07-08": 1105
     }
   },
   {
@@ -536,11 +529,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 694,
-    "timeWeek": 777,
-    "timeMonth": 805,
-    "timeYear": 927,
+    "time": 947,
+    "timeDay": 624,
+    "timeWeek": 759,
+    "timeMonth": 801,
+    "timeYear": 926,
     "dailyMinutesDown": {}
   },
   {
@@ -571,12 +564,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.89%",
-    "uptimeYear": "97.08%",
+    "uptimeYear": "97.23%",
     "time": 1096,
-    "timeDay": 679,
-    "timeWeek": 744,
-    "timeMonth": 783,
-    "timeYear": 1142,
+    "timeDay": 638,
+    "timeWeek": 740,
+    "timeMonth": 781,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2024-06-23": 694,
       "2024-06-22": 331,
@@ -613,8 +606,7 @@
       "2023-07-13": 17,
       "2023-07-11": 195,
       "2023-07-09": 286,
-      "2023-07-08": 1106,
-      "2023-07-07": 1440
+      "2023-07-08": 1106
     }
   },
   {
@@ -623,16 +615,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuelebre.selgaraje.com.ico",
     "slug": "cuelebre",
     "status": "up",
-    "uptime": "63.28%",
+    "uptime": "63.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.90%",
-    "uptimeYear": "81.07%",
-    "time": 1474,
-    "timeDay": 606,
-    "timeWeek": 716,
-    "timeMonth": 761,
-    "timeYear": 1310,
+    "uptimeYear": "81.22%",
+    "time": 1472,
+    "timeDay": 670,
+    "timeWeek": 727,
+    "timeMonth": 756,
+    "timeYear": 1307,
     "dailyMinutesDown": {
       "2024-06-23": 694,
       "2024-06-22": 330,
@@ -717,8 +709,7 @@
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 1440
+      "2023-07-08": 1440
     }
   },
   {
@@ -727,16 +718,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/belenos.selgaraje.com.ico",
     "slug": "belenos",
     "status": "up",
-    "uptime": "88.67%",
+    "uptime": "88.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.93%",
     "uptimeMonth": "87.79%",
-    "uptimeYear": "94.11%",
+    "uptimeYear": "94.26%",
     "time": 942,
-    "timeDay": 667,
-    "timeWeek": 1055,
+    "timeDay": 747,
+    "timeWeek": 1059,
     "timeMonth": 1104,
-    "timeYear": 970,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2024-07-04": 57,
       "2024-07-01": 252,
@@ -783,8 +774,7 @@
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 1440
+      "2023-07-08": 1440
     }
   }
 ]
