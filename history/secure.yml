@@ -1,7 +1,7 @@
 url: https://secure.selgaraje.com
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2024-08-24T23:17:22.539Z
+status: down
+code: 502
+responseTime: 19006
+lastUpdated: 2024-08-25T07:58:45.219Z
 startTime: 2022-07-05T07:50:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
