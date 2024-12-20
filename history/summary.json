@@ -75,17 +75,17 @@
     "slug": "mail-smtp",
     "status": "down",
     "uptime": "67.47%",
-    "uptimeDay": "74.08%",
-    "uptimeWeek": "96.30%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "66.95%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.91%",
     "time": 151,
     "timeDay": 98,
     "timeWeek": 120,
     "timeMonth": 103,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-20": 373
+      "2024-12-20": 476
     }
   },
   {
@@ -94,18 +94,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smt-ps",
     "status": "down",
-    "uptime": "67.48%",
-    "uptimeDay": "77.14%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.94%",
+    "uptime": "67.47%",
+    "uptimeDay": "70.02%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.92%",
     "time": 139,
     "timeDay": 98,
     "timeWeek": 120,
     "timeMonth": 103,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-20": 329
+      "2024-12-20": 432
     }
   },
   {
@@ -113,19 +113,19 @@
     "url": "mail.selgaraje.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-submission",
-    "status": "down",
-    "uptime": "67.48%",
-    "uptimeDay": "78.94%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "67.47%",
+    "uptimeDay": "72.02%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.92%",
     "time": 134,
     "timeDay": 98,
     "timeWeek": 120,
     "timeMonth": 103,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-20": 303
+      "2024-12-20": 403
     }
   },
   {
@@ -134,18 +134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-ima-ps",
     "status": "down",
-    "uptime": "90.71%",
-    "uptimeDay": "74.01%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.93%",
+    "uptime": "90.70%",
+    "uptimeDay": "66.89%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.91%",
     "time": 130,
     "timeDay": 98,
     "timeWeek": 120,
     "timeMonth": 103,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-20": 374
+      "2024-12-20": 477
     }
   },
   {
@@ -154,18 +154,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.selgaraje.com.ico",
     "slug": "cloud",
     "status": "down",
-    "uptime": "39.65%",
+    "uptime": "39.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "41.36%",
+    "uptimeYear": "41.34%",
     "time": 2354,
     "timeDay": 3659,
     "timeWeek": 3913,
     "timeMonth": 3745,
     "timeYear": 2393,
     "dailyMinutesDown": {
-      "2024-12-20": 1200,
+      "2024-12-20": 1303,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
@@ -512,7 +512,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.selgaraje.com.ico",
     "slug": "news",
     "status": "up",
-    "uptime": "93.70%",
+    "uptime": "93.71%",
     "uptimeDay": "98.53%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
@@ -581,7 +581,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuelebre.selgaraje.com.ico",
     "slug": "cuelebre",
     "status": "up",
-    "uptime": "59.34%",
+    "uptime": "59.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -736,7 +736,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/belenos.selgaraje.com.ico",
     "slug": "belenos",
     "status": "up",
-    "uptime": "90.53%",
+    "uptime": "90.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
