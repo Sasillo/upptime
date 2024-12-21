@@ -73,11 +73,11 @@
     "url": "mail.selgaraje.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "67.46%",
-    "uptimeDay": "49.06%",
-    "uptimeWeek": "92.72%",
-    "uptimeMonth": "98.33%",
+    "uptimeDay": "48.69%",
+    "uptimeWeek": "92.67%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "99.86%",
     "time": 150,
     "timeDay": 105,
@@ -85,7 +85,7 @@
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-21": 141,
+      "2024-12-21": 146,
       "2024-12-20": 592
     }
   },
@@ -96,9 +96,9 @@
     "slug": "mail-smt-ps",
     "status": "down",
     "uptime": "67.46%",
-    "uptimeDay": "53.72%",
-    "uptimeWeek": "93.39%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "51.15%",
+    "uptimeWeek": "93.02%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "99.87%",
     "time": 138,
     "timeDay": 105,
@@ -106,7 +106,7 @@
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-21": 146,
+      "2024-12-21": 183,
       "2024-12-20": 520
     }
   },
@@ -117,17 +117,17 @@
     "slug": "mail-submission",
     "status": "down",
     "uptime": "67.47%",
-    "uptimeDay": "63.13%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "60.55%",
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.89%",
     "time": 133,
     "timeDay": 105,
     "timeWeek": 124,
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-21": 3,
+      "2024-12-21": 40,
       "2024-12-20": 528
     }
   },
@@ -136,10 +136,10 @@
     "url": "mail.selgaraje.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-ima-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "90.69%",
-    "uptimeDay": "61.49%",
-    "uptimeWeek": "94.50%",
+    "uptimeDay": "61.37%",
+    "uptimeWeek": "94.48%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.89%",
     "time": 129,
@@ -148,6 +148,7 @@
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2024-12-21": 2,
       "2024-12-20": 554
     }
   },
@@ -161,14 +162,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "41.29%",
+    "uptimeYear": "41.28%",
     "time": 2357,
     "timeDay": 3535,
     "timeWeek": 3899,
     "timeMonth": 3743,
     "timeYear": 2400,
     "dailyMinutesDown": {
-      "2024-12-21": 146,
+      "2024-12-21": 184,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
