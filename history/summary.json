@@ -75,17 +75,17 @@
     "slug": "mail-smtp",
     "status": "down",
     "uptime": "67.44%",
-    "uptimeDay": "21.59%",
-    "uptimeWeek": "88.80%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "99.79%",
+    "uptimeDay": "19.99%",
+    "uptimeWeek": "88.57%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "99.78%",
     "time": 149,
     "timeDay": 105,
     "timeWeek": 124,
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-21": 537,
+      "2024-12-21": 560,
       "2024-12-20": 592
     }
   },
@@ -96,9 +96,9 @@
     "slug": "mail-smt-ps",
     "status": "down",
     "uptime": "67.45%",
-    "uptimeDay": "31.88%",
-    "uptimeWeek": "90.27%",
-    "uptimeMonth": "97.76%",
+    "uptimeDay": "30.28%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "97.71%",
     "uptimeYear": "99.81%",
     "time": 136,
     "timeDay": 105,
@@ -106,7 +106,7 @@
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-21": 461,
+      "2024-12-21": 485,
       "2024-12-20": 520
     }
   },
@@ -117,9 +117,9 @@
     "slug": "mail-submission",
     "status": "down",
     "uptime": "67.45%",
-    "uptimeDay": "34.80%",
-    "uptimeWeek": "90.69%",
-    "uptimeMonth": "97.86%",
+    "uptimeDay": "33.20%",
+    "uptimeWeek": "90.46%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "99.82%",
     "time": 132,
     "timeDay": 105,
@@ -127,7 +127,7 @@
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-21": 411,
+      "2024-12-21": 434,
       "2024-12-20": 528
     }
   },
@@ -136,11 +136,11 @@
     "url": "mail.selgaraje.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-ima-ps",
-    "status": "down",
-    "uptime": "90.67%",
-    "uptimeDay": "32.13%",
-    "uptimeWeek": "90.30%",
-    "uptimeMonth": "97.77%",
+    "status": "up",
+    "uptime": "90.66%",
+    "uptimeDay": "30.65%",
+    "uptimeWeek": "90.09%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.81%",
     "time": 129,
     "timeDay": 105,
@@ -148,7 +148,7 @@
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-21": 423,
+      "2024-12-21": 444,
       "2024-12-20": 554
     }
   },
@@ -169,7 +169,7 @@
     "timeMonth": 3743,
     "timeYear": 2400,
     "dailyMinutesDown": {
-      "2024-12-21": 605,
+      "2024-12-21": 628,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
