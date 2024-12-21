@@ -75,17 +75,18 @@
     "slug": "mail-smtp",
     "status": "down",
     "uptime": "67.46%",
-    "uptimeDay": "58.88%",
-    "uptimeWeek": "94.13%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.89%",
+    "uptimeDay": "55.45%",
+    "uptimeWeek": "93.64%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "99.88%",
     "time": 150,
     "timeDay": 105,
     "timeWeek": 124,
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-12-20": 591
+      "2024-12-21": 49,
+      "2024-12-20": 592
     }
   },
   {
@@ -95,16 +96,17 @@
     "slug": "mail-smt-ps",
     "status": "down",
     "uptime": "67.47%",
-    "uptimeDay": "63.92%",
-    "uptimeWeek": "94.85%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "60.49%",
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.89%",
     "time": 138,
     "timeDay": 105,
     "timeWeek": 124,
     "timeMonth": 104,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2024-12-21": 49,
       "2024-12-20": 520
     }
   },
@@ -165,6 +167,7 @@
     "timeMonth": 3743,
     "timeYear": 2400,
     "dailyMinutesDown": {
+      "2024-12-21": 49,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
