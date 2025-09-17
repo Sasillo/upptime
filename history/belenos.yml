@@ -1,7 +1,7 @@
 url: https://belenos.selgaraje.com
-status: up
-code: 200
-responseTime: 734
-lastUpdated: 2025-09-17T06:26:35.889Z
+status: down
+code: 502
+responseTime: 3738
+lastUpdated: 2025-09-17T07:24:47.892Z
 startTime: 2022-07-05T07:52:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
