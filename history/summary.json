@@ -4,11 +4,11 @@
     "url": "https://mail.selgaraje.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.selgaraje.com.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "84.85%",
-    "uptimeDay": "20.91%",
-    "uptimeWeek": "11.80%",
-    "uptimeMonth": "2.30%",
+    "uptimeDay": "18.58%",
+    "uptimeWeek": "11.85%",
+    "uptimeMonth": "2.31%",
     "uptimeYear": "44.69%",
     "time": 1053,
     "timeDay": 878,
@@ -227,7 +227,7 @@
       "2026-11-20": 1440,
       "2026-11-23": 944,
       "2026-11-22": 1440,
-      "2026-11-24": 410
+      "2026-11-24": 444
     }
   },
   {
@@ -235,16 +235,16 @@
     "url": "mail.selgaraje.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp",
-    "status": "down",
+    "status": "up",
     "uptime": "80.60%",
-    "uptimeDay": "79.38%",
-    "uptimeWeek": "88.36%",
-    "uptimeMonth": "95.85%",
+    "uptimeDay": "81.70%",
+    "uptimeWeek": "88.31%",
+    "uptimeMonth": "95.84%",
     "uptimeYear": "99.35%",
     "time": 153,
-    "timeDay": 149,
-    "timeWeek": 171,
-    "timeMonth": 149,
+    "timeDay": 137,
+    "timeWeek": 165,
+    "timeMonth": 148,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-12-01": 52,
@@ -260,7 +260,7 @@
       "2026-11-19": 217,
       "2026-11-21": 459,
       "2026-11-23": 492,
-      "2026-11-24": 5
+      "2026-11-24": 11
     }
   },
   {
@@ -275,8 +275,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 153,
-    "timeDay": 0,
-    "timeWeek": 166,
+    "timeDay": 124,
+    "timeWeek": 160,
     "timeMonth": 148,
     "timeYear": 154,
     "dailyMinutesDown": {
@@ -301,9 +301,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 152,
-    "timeDay": 0,
-    "timeWeek": 166,
-    "timeMonth": 148,
+    "timeDay": 125,
+    "timeWeek": 160,
+    "timeMonth": 147,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-12-01": 52,
@@ -326,9 +326,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 153,
-    "timeDay": 0,
-    "timeWeek": 166,
-    "timeMonth": 149,
+    "timeDay": 124,
+    "timeWeek": 160,
+    "timeMonth": 148,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-12-01": 52,
@@ -372,7 +372,7 @@
       "2025-11-25": 1440,
       "2026-01-27": 601,
       "2026-01-26": 792,
-      "2026-11-24": 419,
+      "2026-11-24": 458,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -672,13 +672,13 @@
     "url": "https://secure.selgaraje.com",
     "icon": "https://icons.duckduckgo.com/ip3/secure.selgaraje.com.ico",
     "slug": "secure",
-    "status": "up",
-    "uptime": "85.90%",
-    "uptimeDay": "21.28%",
-    "uptimeWeek": "11.92%",
-    "uptimeMonth": "2.35%",
-    "uptimeYear": "43.99%",
-    "time": 765,
+    "status": "down",
+    "uptime": "85.99%",
+    "uptimeDay": "19.61%",
+    "uptimeWeek": "12.07%",
+    "uptimeMonth": "2.39%",
+    "uptimeYear": "43.98%",
+    "time": 766,
     "timeDay": 635,
     "timeWeek": 771,
     "timeMonth": 828,
@@ -895,7 +895,7 @@
       "2026-11-20": 1440,
       "2026-11-23": 938,
       "2026-11-22": 1440,
-      "2026-11-24": 414
+      "2026-11-24": 438
     }
   },
   {
@@ -939,11 +939,11 @@
     "url": "https://news.selgaraje.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.selgaraje.com.ico",
     "slug": "news",
-    "status": "up",
-    "uptime": "86.80%",
-    "uptimeDay": "21.94%",
-    "uptimeWeek": "12.16%",
-    "uptimeMonth": "2.45%",
+    "status": "down",
+    "uptime": "86.81%",
+    "uptimeDay": "21.22%",
+    "uptimeWeek": "12.44%",
+    "uptimeMonth": "2.52%",
     "uptimeYear": "44.74%",
     "time": 913,
     "timeDay": 846,
@@ -1162,7 +1162,7 @@
       "2026-11-20": 1440,
       "2026-11-23": 930,
       "2026-11-22": 1440,
-      "2026-11-24": 419
+      "2026-11-24": 429
     }
   },
   {
@@ -1175,8 +1175,8 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.69%",
-    "time": 1004,
+    "uptimeYear": "42.68%",
+    "time": 1005,
     "timeDay": 0,
     "timeWeek": 393,
     "timeMonth": 393,
@@ -1196,7 +1196,7 @@
       "2026-04-20": 131,
       "2026-04-21": 293,
       "2026-04-26": 292,
-      "2026-11-24": 419,
+      "2026-11-24": 458,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -1406,11 +1406,11 @@
     "url": "https://belenos.selgaraje.com",
     "icon": "https://icons.duckduckgo.com/ip3/belenos.selgaraje.com.ico",
     "slug": "belenos",
-    "status": "up",
+    "status": "down",
     "uptime": "86.92%",
-    "uptimeDay": "22.60%",
-    "uptimeWeek": "12.44%",
-    "uptimeMonth": "2.56%",
+    "uptimeDay": "22.56%",
+    "uptimeWeek": "12.82%",
+    "uptimeMonth": "2.65%",
     "uptimeYear": "44.79%",
     "time": 777,
     "timeDay": 584,
@@ -1626,7 +1626,7 @@
       "2026-11-20": 1440,
       "2026-11-23": 920,
       "2026-11-22": 1440,
-      "2026-11-24": 419
+      "2026-11-24": 420
     }
   }
 ]
